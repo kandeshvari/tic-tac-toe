@@ -1,0 +1,9 @@
+ssl/*.crt
+ssl/*.key
+ssl/*.pem
+ssl/*.csr
+ssl/*.crl
+
+storage
+
+tic-tac-toe
